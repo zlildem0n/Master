@@ -289,3 +289,8 @@
 0.0.0.0 fd.video-ak.cdn.spotify.com
 0.0.0.0 fe.video-ak.cdn.spotify.com
 0.0.0.0 ff.video-ak.cdn.spotify.com
+0.0.0.0 beta.spotify.map.fastly.net
+0.0.0.0 beta.spotify.map.fastlylb.net
+0.0.0.0 prod.spotify-heads.map.fastlylb.net
+0.0.0.0 prod.spotify.map.fastly.net
+0.0.0.0 prod.spotify.map.fastlylb.net
