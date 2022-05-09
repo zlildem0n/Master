@@ -1,10 +1,8 @@
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 frontier.us.tiktokv.com
-0.0.0.0 isnssdk.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 video-edge-c00e90.pdx01.abs.hls.ttvnw.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads-akp.spotify.com
@@ -13,7 +11,6 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 assets.spotify.com
 0.0.0.0 audio-cf.spotify.com
-0.0.0.0 audio-fa.scdn.co # do not block while using chromecast
 0.0.0.0 audio-fa.spotify.com
 0.0.0.0 audio-fab.spotify.com
 0.0.0.0 audio-fac-spotify.com
@@ -37,8 +34,6 @@
 0.0.0.0 payment-callback.spotify.com
 0.0.0.0 pci.spotify.com
 0.0.0.0 pixel.spotify.com
-0.0.0.0 upgrade.scdn.co # optional
-0.0.0.0 upgrade.spotify.com # optional
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
