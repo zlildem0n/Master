@@ -9,6 +9,8 @@
 :: redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
 :: suggestqueries.google.com
+0.0.0.0 dns.google
+:: dns.google
 # Twitch
 0.0.0.0 edge.ads.twtich.tv
 :: edge.ads.twtich.tv
