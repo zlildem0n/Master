@@ -1,9 +1,14 @@
 # tiktok
 0.0.0.0 frontier.us.tiktokv.com
+:: frontier.us.tiktokv.com
 # Snapchat
 0.0.0.0 app-analytics-v2.snapchat.com
+:: app-analytics-v2.snapchat.com
 # Google
 0.0.0.0 redirector.googlevideo.com
+:: redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
+:: suggestqueries.google.com
 # Twitch
 0.0.0.0 edge.ads.twtich.tv
+:: edge.ads.twtich.tv
