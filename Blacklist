@@ -6,7 +6,6 @@
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 dns.google
-0.0.0.0 m.youtube.com
 0.0.0.0 accounts.google.com
 # Twitch
 0.0.0.0 edge.ads.twtich.tv
