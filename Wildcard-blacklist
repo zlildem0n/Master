@@ -1,20 +1,25 @@
-appsflyer.com
-trafficjunky.com
-trafficjunky.net
-doubleverify.com
-litix.io
-samsungapps.com
+# Google
 adgoogle.net
-crashlytics.com
 googletagmanager.com
 google-analytics.com
 googlehosted.com
 google-analytics-cn.com
 googleadservices.com
-isnssdk.com
 googleoptimize.com
-amazon-adsystem.com
-immrworldwide.com
+# Amazon
 amazon.dev
-serving-sys.com
+amazon-adsystem.com
+# Cloud Flare
 cloudflarinsights.com
+# Samsung
+samsungapps.com
+# Unknown
+appsflyer.com
+trafficjunky.com
+trafficjunky.net
+doubleverify.com
+litix.io
+crashlytics.com
+isnssdk.com
+immrworldwide.com
+serving-sys.com
