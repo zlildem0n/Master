@@ -13,6 +13,35 @@
 0.0.0.0 science-output.s3.amazonaws.com
 # Twitter
 # Facebook
+# Spotify
+0.0.0.0 audio-fa.spotify.com
+0.0.0.0 audio-fab.spotify.com
+0.0.0.0 audio-fac-spotify.com
+0.0.0.0 audio-gc.scdn.co
+0.0.0.0 audio-gc.spotify.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashdump.ciqe-gslb.spotify.com
+0.0.0.0 heads-ak.spotify.com
+0.0.0.0 heads-akp.spotify.com
+0.0.0.0 heads-cf.spotify.com
+0.0.0.0 heads-fa.scdn.co
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 heads-fab.spotify.com
+0.0.0.0 heads-fac.spotify.com
+0.0.0.0 links.spotify.com
+0.0.0.0 log.spotify.com
+0.0.0.0 log2.spotify.com
+0.0.0.0 mp3ad.scdn.co
+0.0.0.0 partner-service.spotify.com
+0.0.0.0 partner-service-testing.spotify.com
+0.0.0.0 payment-callback.spotify.com
+0.0.0.0 pci.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 upgrade.scdn.co # optional
+0.0.0.0 upgrade.spotify.com # optional
+0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-fa.cdn.spotify.com
+0.0.0.0 video-fa-b.cdn.spotify.com
 # unknowns
 0.0.0.0 delta.app
 0.0.0.0 app.link
