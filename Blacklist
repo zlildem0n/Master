@@ -269,6 +269,9 @@
 0.0.0.0 fd.video-ak.cdn.spotify.com
 0.0.0.0 fe.video-ak.cdn.spotify.com
 0.0.0.0 ff.video-ak.cdn.spotify.com
+0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 audio-ake.spotify.com.edgesuite.net
+0.0.0.0 audio-akp-spotify-com.akamaized.net
 # unknowns
 0.0.0.0 delta.app
 0.0.0.0 app.link
