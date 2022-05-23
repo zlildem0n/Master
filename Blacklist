@@ -18,6 +18,9 @@
 0.0.0.0 edge.ads.twtich.tv
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 science-output.s3.amazonaws.com
+# Snapchat
+0.0.0.0 gcs.sc-cdn.com
+0.0.0.0 aws.api.snapchat.com
 # unknowns
 0.0.0.0 delta.app
 0.0.0.0 app.link
