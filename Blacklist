@@ -21,7 +21,7 @@
 0.0.0.0 science-output.s3.amazonaws.com
 # Snapchat
 0.0.0.0 gcs.sc-cdn.com
-0.0.0.0 aws.api.snapchat.com
+# 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 aws.duplex.snapchat.com
 # unknowns
 0.0.0.0 delta.app
