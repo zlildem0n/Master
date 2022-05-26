@@ -6,6 +6,7 @@
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 dns.google
+0.0.0.0 suggestqueries-clients6.youtube.com
 # amazon
 0.0.0.0 na.gmtdmp.com
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
