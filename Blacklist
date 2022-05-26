@@ -18,6 +18,9 @@
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 science-output.s3.amazonaws.com
 # Snapchat
+# Twitter
+0.0.0.0 analytics.twitter.com
+0.0.0.0 static.ads-twitter.com
 # unknowns
 0.0.0.0 delta.app
 0.0.0.0 app.link
