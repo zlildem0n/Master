@@ -10,6 +10,8 @@
 0.0.0.0 pagead2.googlesyndication.com 
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 www.google-analytics.com
 # amazon
 0.0.0.0 na.gmtdmp.com
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
