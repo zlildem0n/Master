@@ -7,6 +7,7 @@
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 dns.google
+0.0.0.0 dns.google.com
 0.0.0.0 suggestqueries-clients6.youtube.com
 0.0.0.0 pagead2.googlesyndication.com 
 0.0.0.0 www.gstatic.com
