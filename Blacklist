@@ -69,6 +69,7 @@
 0.0.0.0 pci.spotify.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 upgrade.spotify.com # optional
+0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
@@ -83,6 +84,7 @@
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
+0.0.0.0 bloodhound.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 01.video-ak.cdn.spotify.com
 0.0.0.0 02.video-ak.cdn.spotify.com
