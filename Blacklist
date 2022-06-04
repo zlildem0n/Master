@@ -14,6 +14,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 play.google.com
 # amazon
 0.0.0.0 na.gmtdmp.com
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
