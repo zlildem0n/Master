@@ -42,7 +42,6 @@
 # Spotify
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads-akp.spotify.com
-# Audio
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
@@ -57,7 +56,6 @@
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-tata.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
-# Video
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
@@ -89,3 +87,5 @@
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 bloodhound.spotify.com
+# akamaized
+amp.akamaized.net
